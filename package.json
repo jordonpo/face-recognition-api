@@ -1,0 +1,17 @@
+{
+  "name": "facerecognition-api",
+  "version": "1.0.0",
+  "description": "face recognition server",
+  "main": "script.js",
+  "scripts": {
+  	"start": "nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
